@@ -1,0 +1,21 @@
+[
+  {
+    "Id": "f52cb5e7-af6e-4f0a-b7b6-2978c7f7897a",
+    "ClientName": "tomas",
+    "Address": "misiones 3333",
+    "Products": [
+      {
+        "Id": "f3e1eab6-b8bc-4719-b45b-4c6309639046",
+        "Name": "caca",
+        "Price": 123,
+        "Quantity": 123,
+        "Subtotal": 15129
+      }
+    ],
+    "ShippingType": "Env\u00EDo por Correo",
+    "ShippingCost": 1512.90,
+    "ConfirmedDate": "2025-11-10T19:05:29.709569-03:00",
+    "Subtotal": 15129,
+    "Total": 16641.90
+  }
+]
