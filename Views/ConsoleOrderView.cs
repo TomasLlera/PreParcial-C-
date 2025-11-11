@@ -52,6 +52,7 @@ namespace Views
 
         private void ShowMenu()
         {
+            Console.Clear();
             Console.WriteLine("\n┌───────────────────────────────────────────┐");
             Console.WriteLine("│              MENÚ PRINCIPAL               │");
             Console.WriteLine("├───────────────────────────────────────────┤");
@@ -72,6 +73,7 @@ namespace Views
 
         private void ProcessOption(string option)
         {
+            Console.Clear();
             switch (option)
             {
                 case "1":
